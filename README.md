@@ -36,5 +36,4 @@ I'm a Java developer focused on building backend and full-stack applications.
 
 ### 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Portfolio: YOUR_WEBSITE_URL
+- LinkedIn: https://www.linkedin.com/in/sumedh-baviskar-1aa0983b6/
