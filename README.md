@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Sumedh 👋
 
-<!--
-**sumedh22kar/sumedh22kar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a Java developer focused on building backend and full-stack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- Java
+- Spring Boot
+- Spring Security
+- Spring Cloud
+- Microservices
+- REST APIs
+- PostgreSQL
+- MySQL
+- Redis
+- Kafka
+- React
+- Docker
+- Git & GitHub
+
+### 🚀 Featured Projects
+
+- **QuizHub Microservices** — Microservices-based quiz platform using Spring Boot, Spring Cloud, JWT, PostgreSQL, Redis, Kafka and Docker.
+- **Instagram Automation SaaS** — SaaS platform for Instagram comment and DM automation.
+- **PromptGenLab** — AI prompt platform.
+
+### 📚 Currently Learning
+
+- Advanced Spring Boot
+- Microservices Architecture
+- Kafka
+- System Design
+- Cloud & DevOps
+
+### 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_URL
+- Portfolio: YOUR_WEBSITE_URL
